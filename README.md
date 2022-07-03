@@ -23,6 +23,7 @@ REACT_APP_OPENWEATHER_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXX
 
 5. Create an [Open Weather Map](https://openweathermap.org/ "Open Weather Map") account.
 6. Copy your API Key as shown below and paste it in `.env` file.
+
    ![Copy API Key](https://user-images.githubusercontent.com/71302066/177005905-b2dba122-0b24-4c08-b331-cabd6c55d3fa.png "Copy API Key")
 7. You are ready to go :fire:
 
