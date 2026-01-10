@@ -2,13 +2,13 @@
 
 ![PWA Weather App using React JS](https://user-images.githubusercontent.com/71302066/177005735-619edae8-6740-45fa-bb70-19b8a74e7d5a.png "PWA Weather App using React JS")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/pwa-weather-app)](https://github.com/Technical-Shubham-tech/pwa-weather-app/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/pwa-weather-app/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/pwa-weather-app)](https://github.com/Technical-Shubham-tech/pwa-weather-app/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/pwa-weather-app/main)](https://github.com/Technical-Shubham-tech/pwa-weather-app/commits "Github commits")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/sanidhyy "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/sanidhyy/pwa-weather-app)](https://github.com/sanidhyy/pwa-weather-app/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sanidhyy/pwa-weather-app/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/sanidhyy/pwa-weather-app)](https://github.com/sanidhyy/pwa-weather-app/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/sanidhyy/pwa-weather-app/main)](https://github.com/sanidhyy/pwa-weather-app/commits "Github commits")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c3d78e12-4a59-4a95-a90f-7a2b673cffc4/deploy-status)](https://react-app-pwa-weather.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/pwa-weather-app)](https://github.com/Technical-Shubham-tech/pwa-weather-app/issues "GitHub issues")
+[![GitHub issues](https://img.shields.io/github/issues/sanidhyy/pwa-weather-app)](https://github.com/sanidhyy/pwa-weather-app/issues "GitHub issues")
 
 ## :warning: Before you start
 
@@ -62,7 +62,7 @@ REACT_APP_OPENWEATHER_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXX
 
 [<img src="https://user-images.githubusercontent.com/71302066/177006646-8e755ff6-3776-4173-846c-d82b12e12e57.svg" width="200" />](https://en.wikipedia.org/wiki/Progressive_web_application "Progressive Web Apps")
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech "Built with Love")
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/sanidhyy "Built with Love")
 
 ## :wrench: Stats
 
@@ -80,8 +80,8 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsanidhyyy)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fmedical-chat-app "Tweet")
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw "Subscribe my Channel")
 
 ## :star: Give A Star
