@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/Technical-Shubham-tech/pwa-weather-app/fork
-[pr]: https://github.com/Technical-Shubham-tech/pwa-weather-app/compare
+[fork]: https://github.com/sanidhyy/pwa-weather-app/fork
+[pr]: https://github.com/sanidhyy/pwa-weather-app/compare
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
