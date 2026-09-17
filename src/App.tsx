@@ -7,13 +7,21 @@ import "./App.css";
 const App = () => {
   const [query, setQuery] = useState("");
   const [weather, setWeather] = useState<WeatherData | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
   const search = async (e: KeyboardEvent<HTMLInputElement>) => {
-    if (e.key === "Enter") {
-      const data = await fetchWeather(query);
+    if (e.key !== "Enter" || !query.trim()) {
+      return;
+    }
 
+    try {
+      const data = await fetchWeather(query.trim());
       setWeather(data);
+      setError(null);
       setQuery("");
+    } catch {
+      setWeather(null);
+      setError("Unable to fetch weather for that location.");
     }
   };
 
@@ -27,6 +35,8 @@ const App = () => {
         onChange={(e) => setQuery(e.target.value)}
         onKeyDown={search}
       />
+
+      {error && <p className="error">{error}</p>}
 
       {weather?.main && (
         <div className="city">

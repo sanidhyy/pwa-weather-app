@@ -79,10 +79,12 @@ p {
   height: 100px;
 }
 
-.info {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.error {
+  color: #fff;
+  background: rgba(180, 40, 40, 0.85);
+  padding: 0.8em 1.2em;
+  border-radius: 12px;
+  text-transform: none;
 }
 
 @media only screen and (max-width: 600px) {
