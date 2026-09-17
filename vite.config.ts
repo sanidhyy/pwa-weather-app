@@ -36,6 +36,8 @@ export default defineConfig({
         globPatterns: ["**/*.{js,css,html,ico,png,svg,jpg,woff2}"],
       },
     }),
-    netlify(),
+    netlify({
+      edgeFunctions: { enabled: false },
+    }),
   ],
 });
