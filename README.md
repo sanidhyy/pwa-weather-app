@@ -27,14 +27,14 @@ OPENWEATHER_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXX
 
 6. You are ready to go :fire:
 
-   _NOTE:_ Never share these keys publicly. The key is read only by the Netlify function at `/api/weather` and is not exposed to the browser. If you previously used `REACT_APP_OPENWEATHER_API_KEY`, rename it to `OPENWEATHER_API_KEY` locally and in the Netlify site environment variables.
+   _NOTE:_ Never share these keys publicly.
 
 ## :pushpin: How to use this App?
 
 1. Clone this **repository** to your local computer.
 2. Open **terminal** in root directory.
-3. Type and Run `pnpm install`.
-4. Once packages are installed, you can start this app using `pnpm start`
+3. Type and Run `npm install` or `pnpm install`.
+4. Once packages are installed, you can start this app using `npm run dev` or `pnpm dev`.
 5. Now app is fully configured and you can start using this app :+1:
 
 ### :raising_hand: Need Help?
@@ -102,22 +102,22 @@ You can also give this repository a star to show more people and they can use th
 
 In the project directory, you can run:
 
-### `pnpm start` / `pnpm dev`
+### `npm run start` / `pnpm dev`
 
 Runs the app in development mode.\
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 The Netlify Vite plugin emulates `/api/weather` locally, so weather search works without the Netlify CLI.
 
-### `pnpm lint`
+### `npm run lint` / `pnpm lint`
 
 Runs ESLint across the project.
 
-### `pnpm build`
+### `npm run build` / `pnpm build`
 
 Type-checks the project and builds the production bundle to the `dist` folder.
 
-### `pnpm preview`
+### `npm run preview` / `pnpm preview`
 
 Serves the production build locally.
 
