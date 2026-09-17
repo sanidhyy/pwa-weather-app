@@ -12,6 +12,8 @@
 # production
 /build
 /dist
+*.tsbuildinfo
+node_modules/.tmp
 
 # misc
 .DS_Store

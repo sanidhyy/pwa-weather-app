@@ -1,13 +1,14 @@
-import React, { useState } from "react";
+import { useState, type KeyboardEvent } from "react";
 
 import { fetchWeather } from "./api/fetchWeather";
+import type { WeatherData } from "./api/types";
 import "./App.css";
 
 const App = () => {
   const [query, setQuery] = useState("");
-  const [weather, setWeather] = useState({});
+  const [weather, setWeather] = useState<WeatherData | null>(null);
 
-  const search = async (e) => {
+  const search = async (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "Enter") {
       const data = await fetchWeather(query);
 
@@ -24,7 +25,7 @@ const App = () => {
         placeholder="Search your Location:"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        onKeyPress={search}
+        onKeyDown={search}
       />
 
       {weather?.main && (
